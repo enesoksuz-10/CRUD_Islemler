@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKPB+yrkCK8=",
+  "dgSpecHash": "6CfuRoKHkj8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Enes Öksüz\\source\\repos\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Enes Öksüz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Enes Öksüz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

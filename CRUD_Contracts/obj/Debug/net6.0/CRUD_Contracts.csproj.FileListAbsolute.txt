@@ -10,3 +10,15 @@ C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\refint\CRUD_Contracts.dll
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.pdb
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\ref\CRUD_Contracts.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\bin\Debug\net6.0\CRUD_Contracts.deps.json
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\bin\Debug\net6.0\CRUD_Contracts.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\bin\Debug\net6.0\CRUD_Contracts.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.csproj.AssemblyReference.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.AssemblyInfoInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.AssemblyInfo.cs
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\refint\CRUD_Contracts.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\CRUD_Contracts.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Contracts\obj\Debug\net6.0\ref\CRUD_Contracts.dll

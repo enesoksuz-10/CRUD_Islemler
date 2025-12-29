@@ -15,6 +15,8 @@ namespace CRUD_Business.Mapping
         {
             // CreateUserDto → User dönüşümü
             CreateMap<CreateUserDto, User>();
+            CreateMap<User, ReadUserDto>();
+            CreateMap<UpdateUserDto, User>();
         }
     }
 }

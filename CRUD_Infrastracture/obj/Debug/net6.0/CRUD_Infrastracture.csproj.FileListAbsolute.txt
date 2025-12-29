@@ -10,3 +10,15 @@ C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\n
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\refint\CRUD_Infrastracture.dll
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.pdb
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\ref\CRUD_Infrastracture.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\bin\Debug\net6.0\CRUD_Infrastracture.deps.json
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\bin\Debug\net6.0\CRUD_Infrastracture.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\bin\Debug\net6.0\CRUD_Infrastracture.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.AssemblyInfo.cs
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\refint\CRUD_Infrastracture.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\CRUD_Infrastracture.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Infrastracture\obj\Debug\net6.0\ref\CRUD_Infrastracture.dll

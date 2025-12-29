@@ -19,3 +19,24 @@ C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\refint\CRUD_Business.dll
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.pdb
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\ref\CRUD_Business.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.csproj.AssemblyReference.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.AssemblyInfoInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.AssemblyInfo.cs
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.csproj.CoreCompileInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\refint\CRUD_Business.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Business.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Business.deps.json
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Business.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Business.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Contracts.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_DataAccess.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Infrastracture.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Model.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Contracts.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_DataAccess.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Infrastracture.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\bin\Debug\net6.0\CRUD_Model.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\CRUD_Bus.66236455.Up2Date
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Business\obj\Debug\net6.0\ref\CRUD_Business.dll

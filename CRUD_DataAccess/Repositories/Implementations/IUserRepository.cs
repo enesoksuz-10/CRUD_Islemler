@@ -10,6 +10,19 @@ namespace CRUD_DataAccess.Repositories.Implementations
     public interface IUserRepository
     {
         Task AddAsync(User user);
+        Task<List<User>> GetAllAsync();
+        Task<User?> GetByIdAsync(int id);
+        Task<User?> GetByIdForUpdateAsync(int id);
+        Task UpdateAsync(User user);
+        Task<User?> GetByIdForDeleteAsync(int id);
+        Task SoftDeleteAsync(User user);
+        Task<User?> GetByIdForActivateAsync(int id);
+        Task ActivateAsync(User user);
+        Task<User?> GetByIdForHardDeleteAsync(int id);
+        Task HardDeleteAsync(User user);
+
+
+
     }
 }
 // Task kullanmamızın sebebi:

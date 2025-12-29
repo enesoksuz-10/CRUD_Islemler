@@ -10,3 +10,15 @@ C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRU
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\refint\CRUD_Model.dll
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.pdb
 C:\Users\Enes Öksüz\source\repos\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\ref\CRUD_Model.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\bin\Debug\net6.0\CRUD_Model.deps.json
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\bin\Debug\net6.0\CRUD_Model.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\bin\Debug\net6.0\CRUD_Model.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.csproj.AssemblyReference.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.AssemblyInfoInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.AssemblyInfo.cs
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.csproj.CoreCompileInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\refint\CRUD_Model.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\CRUD_Model.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_Model\obj\Debug\net6.0\ref\CRUD_Model.dll

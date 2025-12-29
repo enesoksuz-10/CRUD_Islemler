@@ -2176,11 +2176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enes Öksüz\\source\\repos\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
+      "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
       "projectName": "CRUD_Infrastracture",
-      "projectPath": "C:\\Users\\Enes Öksüz\\source\\repos\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
+      "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
       "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enes Öksüz\\source\\repos\\CRUD_Islemler\\CRUD_Infrastracture\\obj\\",
+      "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
