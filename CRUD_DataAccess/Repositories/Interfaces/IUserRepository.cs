@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CRUD_DataAccess.Repositories.Implementations
+namespace CRUD_DataAccess.Repositories.Interfaces
 {
     public interface IUserRepository
     {

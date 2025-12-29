@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj": {}
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj": {
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj",
+        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj",
         "projectName": "CRUD_Business",
-        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj",
+        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj",
         "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Business\\obj\\",
+        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,17 +33,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj"
               },
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj"
               },
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj"
               },
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj": {
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj",
         "projectName": "CRUD_Contracts",
-        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj",
+        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Contracts\\CRUD_Contracts.csproj",
         "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj": {
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj",
         "projectName": "CRUD_DataAccess",
-        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj",
+        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj",
         "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -204,8 +204,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj"
               }
             }
           }
@@ -262,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj": {
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
+        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
         "projectName": "CRUD_Infrastracture",
-        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
+        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Infrastracture\\CRUD_Infrastracture.csproj",
         "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Infrastracture\\obj\\",
+        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Infrastracture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -349,14 +349,14 @@
         }
       }
     },
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj": {
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj",
+        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj",
         "projectName": "CRUD_Islemler",
-        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj",
+        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj",
         "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Islemler\\obj\\",
+        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Islemler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -378,11 +378,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Business\\CRUD_Business.csproj"
               },
-              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj"
+              "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_DataAccess\\CRUD_DataAccess.csproj"
               }
             }
           }
@@ -446,14 +446,14 @@
         }
       }
     },
-    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj": {
+    "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
+        "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
         "projectName": "CRUD_Model",
-        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
+        "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
         "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\obj\\",
+        "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

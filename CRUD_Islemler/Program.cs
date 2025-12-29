@@ -8,6 +8,7 @@ using CRUD_Business.Interfaces;
 using CRUD_Business.Services;
 using CRUD_DataAccess.Repositories.Implementations;
 using CRUD_Infrastracture.ExceptionHandling.Middleware;
+using CRUD_DataAccess.Repositories.Interfaces;
 
 
 var builder = WebApplication.CreateBuilder(args);

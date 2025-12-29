@@ -28,3 +28,18 @@ C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CR
 C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\refint\CRUD_DataAccess.dll
 C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.pdb
 C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\ref\CRUD_DataAccess.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\bin\Debug\net6.0\CRUD_DataAccess.deps.json
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\bin\Debug\net6.0\CRUD_DataAccess.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\bin\Debug\net6.0\CRUD_DataAccess.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\bin\Debug\net6.0\CRUD_Model.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\bin\Debug\net6.0\CRUD_Model.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.AssemblyInfo.cs
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_Dat.136A9200.Up2Date
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\refint\CRUD_DataAccess.dll
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\CRUD_DataAccess.pdb
+C:\Users\Enes Öksüz\Desktop\Katmanlı Mimari Temel İşlemler (CRUD)\CRUD_Islemler\CRUD_DataAccess\obj\Debug\net6.0\ref\CRUD_DataAccess.dll

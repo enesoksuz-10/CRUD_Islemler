@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJtP95Y3yY0=",
+  "dgSpecHash": "Ie6n6/XUZW0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj",
+  "projectFilePath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Islemler\\CRUD_Islemler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Enes Öksüz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Enes Öksüz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

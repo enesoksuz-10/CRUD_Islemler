@@ -1,5 +1,5 @@
 ﻿using CRUD_DataAccess.Context;
-using CRUD_DataAccess.Repositories.Implementations;
+using CRUD_DataAccess.Repositories.Interfaces;
 using CRUD_Model.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;

@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using CRUD_Business.Interfaces;
 using CRUD_Contracts.Users;
-using CRUD_DataAccess.Repositories.Implementations;
+using CRUD_DataAccess.Repositories.Interfaces;
 using CRUD_Infrastracture.ExceptionHandling.Exceptions;
 using CRUD_Model.Entities;
 

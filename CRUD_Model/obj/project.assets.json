@@ -2007,11 +2007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
+      "projectUniqueName": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
       "projectName": "CRUD_Model",
-      "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
+      "projectPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\CRUD_Model.csproj",
       "packagesPath": "C:\\Users\\Enes Öksüz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler\\CRUD_Islemler\\CRUD_Model\\obj\\",
+      "outputPath": "C:\\Users\\Enes Öksüz\\Desktop\\Katmanlı Mimari Temel İşlemler (CRUD)\\CRUD_Islemler\\CRUD_Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
